@@ -1,0 +1,38 @@
+body{
+    display: block;
+    background-color: rgb(14, 86, 153);
+    justify-content: space-around;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(final\ answer.gif) black;
+}
+.WorldOrder{
+border: 10px solid rgb(64, 121, 228);
+box-shadow: 10px 10px 5px 15px black;
+
+}
+
+.first-block {
+    display: block;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin-top: 50px;
+    padding: 70px 0;
+    
+    
+    
+}
+
+@font-face {
+    font-family: Gilroy-Heavy;
+    src: url(Gilroy-Heavy.ttf);
+}
+
+@font-face {
+    font-family: GothamMedium;
+    src: url(GothamMedium.ttf);
+}
+h1{
+    font-family: GothamMedium;
+}
